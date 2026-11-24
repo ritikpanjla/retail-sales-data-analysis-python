@@ -1,0 +1,81 @@
+Order_ID,Date,Product,Category,City,Quantity,Unit_Price,Sales
+ORD001,2026-03-23,Mouse,Electronics,Jaipur,1,800,800
+ORD002,2026-02-01,Chair,Furniture,Delhi,3,6500,19500
+ORD003,2026-03-28,Mouse,Electronics,Delhi,7,800,5600
+ORD004,2026-01-04,Mouse,Electronics,Mumbai,4,800,3200
+ORD005,2026-03-06,Laptop,Electronics,Chandigarh,4,55000,220000
+ORD006,2026-02-23,Chair,Furniture,Chandigarh,8,6500,52000
+ORD007,2026-02-05,Laptop,Electronics,Pune,3,55000,165000
+ORD008,2026-02-13,Desk,Furniture,Mumbai,3,12000,36000
+ORD009,2026-04-08,Notebook,Stationery,Delhi,2,120,240
+ORD010,2026-02-18,Mouse,Electronics,Jaipur,6,800,4800
+ORD011,2026-03-19,Desk,Furniture,Pune,1,12000,12000
+ORD012,2026-03-10,Mouse,Electronics,Delhi,7,800,5600
+ORD013,2026-03-12,Desk,Furniture,Chandigarh,6,12000,72000
+ORD014,2026-01-25,Mouse,Electronics,Mumbai,1,800,800
+ORD015,2026-04-09,Desk,Furniture,Mumbai,2,12000,24000
+ORD016,2026-04-21,Mouse,Electronics,Jaipur,7,800,5600
+ORD017,2026-02-28,Notebook,Stationery,Jaipur,3,120,360
+ORD018,2026-02-15,Chair,Furniture,Delhi,5,6500,32500
+ORD019,2026-03-19,Keyboard,Electronics,Mumbai,4,1500,6000
+ORD020,2026-03-01,Pen Pack,Stationery,Chandigarh,5,80,400
+ORD021,2026-01-29,Notebook,Stationery,Mumbai,1,120,120
+ORD022,2026-04-16,Laptop,Electronics,Pune,6,55000,330000
+ORD023,2026-02-04,Mouse,Electronics,Chandigarh,4,800,3200
+ORD024,2026-04-23,Notebook,Stationery,Pune,4,120,480
+ORD025,2026-02-20,Water Bottle,Accessories,Jaipur,3,450,1350
+ORD026,2026-01-18,Chair,Furniture,Chandigarh,5,6500,32500
+ORD027,2026-02-24,Pen Pack,Stationery,Mumbai,6,80,480
+ORD028,2026-01-18,Water Bottle,Accessories,Delhi,2,450,900
+ORD029,2026-04-21,Mouse,Electronics,Mumbai,3,800,2400
+ORD030,2026-04-12,Pen Pack,Stationery,Pune,2,80,160
+ORD031,2026-02-18,Water Bottle,Accessories,Chandigarh,5,450,2250
+ORD032,2026-04-21,Laptop,Electronics,Chandigarh,2,55000,110000
+ORD033,2026-04-07,Desk,Furniture,Delhi,6,12000,72000
+ORD034,2026-02-07,Pen Pack,Stationery,Pune,3,80,240
+ORD035,2026-01-01,Desk,Furniture,Chandigarh,3,12000,36000
+ORD036,2026-04-27,Mouse,Electronics,Chandigarh,5,800,4000
+ORD037,2026-03-19,Chair,Furniture,Jaipur,3,6500,19500
+ORD038,2026-04-08,Keyboard,Electronics,Chandigarh,1,1500,1500
+ORD039,2026-02-11,Water Bottle,Accessories,Delhi,1,450,450
+ORD040,2026-04-29,Notebook,Stationery,Mumbai,5,120,600
+ORD041,2026-01-08,Chair,Furniture,Delhi,2,6500,13000
+ORD042,2026-04-04,Water Bottle,Accessories,Chandigarh,2,450,900
+ORD043,2026-04-09,Keyboard,Electronics,Pune,3,1500,4500
+ORD044,2026-03-12,Keyboard,Electronics,Chandigarh,5,1500,7500
+ORD045,2026-04-22,Pen Pack,Stationery,Chandigarh,4,80,320
+ORD046,2026-04-07,Chair,Furniture,Pune,5,6500,32500
+ORD047,2026-03-27,Notebook,Stationery,Chandigarh,8,120,960
+ORD048,2026-02-27,Mouse,Electronics,Mumbai,4,800,3200
+ORD049,2026-01-09,Notebook,Stationery,Chandigarh,1,120,120
+ORD050,2026-03-12,Chair,Furniture,Delhi,4,6500,26000
+ORD051,2026-01-10,Laptop,Electronics,Delhi,4,55000,220000
+ORD052,2026-04-26,Laptop,Electronics,Delhi,6,55000,330000
+ORD053,2026-03-07,Chair,Furniture,Pune,5,6500,32500
+ORD054,2026-01-28,Keyboard,Electronics,Mumbai,8,1500,12000
+ORD055,2026-04-11,Water Bottle,Accessories,Mumbai,7,450,3150
+ORD056,2026-01-13,Mouse,Electronics,Jaipur,7,800,5600
+ORD057,2026-02-24,Pen Pack,Stationery,Delhi,8,80,640
+ORD058,2026-03-28,Mouse,Electronics,Pune,1,800,800
+ORD059,2026-04-04,Notebook,Stationery,Mumbai,2,120,240
+ORD060,2026-01-25,Chair,Furniture,Mumbai,8,6500,52000
+ORD061,2026-02-24,Keyboard,Electronics,Pune,5,1500,7500
+ORD062,2026-02-01,Mouse,Electronics,Chandigarh,8,800,6400
+ORD063,2026-01-13,Laptop,Electronics,Delhi,1,55000,55000
+ORD064,2026-04-29,Chair,Furniture,Pune,3,6500,19500
+ORD065,2026-03-04,Water Bottle,Accessories,Pune,4,450,1800
+ORD066,2026-04-26,Laptop,Electronics,Pune,3,55000,165000
+ORD067,2026-01-01,Pen Pack,Stationery,Pune,5,80,400
+ORD068,2026-02-06,Pen Pack,Stationery,Mumbai,8,80,640
+ORD069,2026-01-25,Desk,Furniture,Delhi,4,12000,48000
+ORD070,2026-03-16,Laptop,Electronics,Delhi,6,55000,330000
+ORD071,2026-01-07,Water Bottle,Accessories,Delhi,3,450,1350
+ORD072,2026-03-07,Mouse,Electronics,Delhi,3,800,2400
+ORD073,2026-03-18,Mouse,Electronics,Pune,4,800,3200
+ORD074,2026-01-16,Chair,Furniture,Chandigarh,1,6500,6500
+ORD075,2026-01-11,Pen Pack,Stationery,Jaipur,6,80,480
+ORD076,2026-01-27,Notebook,Stationery,Jaipur,4,120,480
+ORD077,2026-02-20,Keyboard,Electronics,Pune,5,1500,7500
+ORD078,2026-02-10,Mouse,Electronics,Pune,1,800,800
+ORD079,2026-03-21,Mouse,Electronics,Chandigarh,2,800,1600
+ORD080,2026-01-28,Desk,Furniture,Jaipur,3,12000,36000
